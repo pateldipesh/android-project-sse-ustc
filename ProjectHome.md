@@ -1,0 +1,1 @@
+An android based project developed by four students in SSE of USTC written by Jian Li
